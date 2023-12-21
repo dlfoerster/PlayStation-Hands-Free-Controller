@@ -17,3 +17,8 @@ The right button triggers when all fingers but the pinky (if using left hand) or
 The up and down buttons trigger when all fingers are near the top or bottom edge of the screen.
 
 To select the cross or circle buttons, put your hand into a fist, with the palm facing toward the screen, and raise only your index and middle finger. Then, the button will trigger when the top 2 yellow dots on both fingers are within the buttons square. For this it may help to move your hand further from the camera so the yellow dots can all fit.
+
+### Attributions:
+
+ps4.py written by myself, Dale Foerster.
+HandTrackingModule.py was made by following this tutorial [here](https://www.youtube.com/watch?v=NZde8Xt78Iw&ab_channel=Murtaza%27sWorkshop-RoboticsandAI)
