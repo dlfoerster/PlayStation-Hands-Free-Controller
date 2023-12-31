@@ -21,4 +21,4 @@ To select the cross or circle buttons, put your hand into a fist, with the palm 
 ### Attributions:
 
 ps4.py written by myself, Dale Foerster.
-HandTrackingModule.py was made by following this tutorial [here](https://www.youtube.com/watch?v=NZde8Xt78Iw&ab_channel=Murtaza%27sWorkshop-RoboticsandAI)
+HandTrackingModule.py was made by following this tutorial [here](https://www.youtube.com/watch?v=NZde8Xt78Iw&ab_channel=Murtaza%27sWorkshop-RoboticsandAI).
